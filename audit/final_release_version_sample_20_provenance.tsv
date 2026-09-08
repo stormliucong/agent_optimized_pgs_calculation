@@ -1,0 +1,21 @@
+genotype_id	pgs_model_id	tier	n_rows	n_S	coverage	note
+HG01879	PGS003162	large	10316178	8478730	0.821887	scored
+HG03342	PGS000554	large	1114993	1112465	0.997733	scored
+HG00551	PGS004720	large	1000300	991306	0.991009	scored
+HG01462	PGS002988	medium	996763	994791	0.998022	scored
+HG00403	PGS005130	medium	708315	707546	0.998914	scored
+HG02116	PGS004102	medium	61651	61573	0.998735	scored
+HG00096	PGS001232	medium	10053	9287	0.923804	scored
+HG01779	PGS001007	small	9993	9270	0.927649	scored
+HG01583	PGS001632	small	302	258	0.854305	scored
+HG03867	PGS001033	small	1	1	1.0	scored
+HG01879	PGS003451	null	2	0	0.0	no locus of this model is in S
+HG03342	PGS005228	null	2379381	0	0.0	no locus of this model is in S
+HG00551	PGS000343	null	0	0	0.0	no locus of this model is in S
+HG01462	PGS003757	null	0	0	0.0	no locus of this model is in S
+HG00403	PGS004256	null	0	0	0.0	no locus of this model is in S
+HG02116	PGS004260	null	0	0	0.0	no locus of this model is in S
+HG00096	PGS004262	null	0	0	0.0	no locus of this model is in S
+HG01779	PGS004272	null	0	0	0.0	no locus of this model is in S
+HG01583	PGS004280	null	0	0	0.0	no locus of this model is in S
+HG03867	PGS004304	null	0	0	0.0	no locus of this model is in S

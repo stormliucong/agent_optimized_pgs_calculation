@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.egg-info/
+
+# run outputs — a reference bundle is tens of GB and does not belong in git
+*_pgs_reference/
+sampled_pgs_cal_workspace/
+*.watchdog.log
+*.npy
+*.tsv.gz

@@ -1,0 +1,10 @@
+# Versions this release was built and measured with (Python 3.13.11, aarch64).
+# The scorer is not pinned to them in code; these are what was tested.
+numpy==2.4.1
+pandas==3.0.0
+scipy==1.18.0
+isal==1.8.0          # ISA-L 2.31.1 — the gzip path the timings depend on
+
+# GPU path.  Optional: without cupy the scorer runs the same arithmetic on
+# numpy/scipy and records backend=CPU.  Install the wheel matching your CUDA.
+# cupy-cuda12x==14.1.1
