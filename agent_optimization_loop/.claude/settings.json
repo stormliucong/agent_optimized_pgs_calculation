@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "allow": [
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(.venv/bin/python:*)",
+      "Bash(.venv/bin/python3:*)",
+      "Bash(.venv/bin/pip:*)",
+      "Bash(nvidia-smi:*)",
+      "Bash(nproc:*)",
+      "Bash(lscpu:*)",
+      "Bash(free:*)",
+      "Bash(df:*)",
+      "Bash(uname:*)",
+      "Bash(sw_vers:*)",
+      "Bash(sysctl -n:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(wc:*)",
+      "Bash(grep:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)",
+      "Bash(mv:*)",
+      "Bash(du:*)",
+      "Bash(time:*)",
+      "Bash(/usr/bin/time:*)",
+      "Bash(zcat:*)",
+      "Bash(gzip:*)"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+# Minimum to generate the benchmark, run the starting script and the gate.
+# The optimization loop may add more (cupy, numba, torch, mlx, isal, ...) per iteration.
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
